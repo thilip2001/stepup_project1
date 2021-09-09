@@ -1,0 +1,39 @@
+.create{
+    padding-top: 20px;
+
+}
+
+.createForm{
+    position: relative;
+}
+.createFormGroup{
+    margin-left: 310px;
+    display: flex;
+    align-items: center;
+}
+
+.createInput{
+    font-size: 25px;
+    padding: 5px;
+    width: 50vw;
+    top: 150px;
+    font-family: 'josefin sans',sans-serif;
+
+}
+.createInput:focus{
+    outline:black;
+}
+.createText{
+    font-size: 15px;
+    margin-top: 20px;
+    height: 25vh;
+    outline: grey;
+    font-family: 'josefin sans',sans-serif;
+}
+.createSubmit{
+    position: absolute;
+    align-items: center;
+    margin-left: 580px;
+    margin-bottom: 50 px;
+    margin-top: 500px;
+}
