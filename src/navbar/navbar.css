@@ -65,12 +65,12 @@
         font-family: 'josefin sans',sans-serif;
     }
         .topLeft{
-            font-size: 12px;
+            font-size: 15px;
             margin-right: 15px;
         }
         .topListItem{
             margin-right: 5px;
-            font-size: 6.5px;
+            font-size: 10px;
             font-weight: 400;
             cursor: pointer;
         }
