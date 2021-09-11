@@ -39,7 +39,7 @@
 }
 @media (max-width: 400px){
     .createFormGroup{
-        margin-left: 80px;
+        margin-left: 40px;
         display: flex;
         align-items: center;
     }
@@ -47,7 +47,7 @@
     .createInput{
         font-size: 15px;
         padding: 2px;
-        width: 60vw;
+        width: 80vw;
         top: 150px;
         font-family: 'josefin sans',sans-serif;
     
