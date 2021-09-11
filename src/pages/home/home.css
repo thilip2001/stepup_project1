@@ -33,10 +33,10 @@
 @media (max-width: 400px){
     .homeTitle2{
         position: absolute;
-        top: 55%;
+        top: 50%;
         font-size: 15px;
         font-weight: 300;
-        margin-left:100px;
+        margin-left:110px;
         font-weight: 400;
     }
     .homeTitle1{
