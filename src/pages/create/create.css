@@ -61,13 +61,13 @@
         height: 25vh;
         outline: grey;
         font-family: 'josefin sans',sans-serif;
-        margin-bottom: 20px;
+        margin-bottom: 5px;
     }
     .createSubmit{
         position: absolute;
         align-items: center;
         margin-left: 150px;
         margin-bottom: 50 px;
-        margin-top: 300px;
+        margin-top: 400px;
     }
 }
