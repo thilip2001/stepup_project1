@@ -37,3 +37,37 @@
     margin-bottom: 50 px;
     margin-top: 500px;
 }
+@media (max-width: 400px){
+    .createFormGroup{
+        margin-left: 80px;
+        display: flex;
+        align-items: center;
+    }
+    
+    .createInput{
+        font-size: 15px;
+        padding: 2px;
+        width: 60vw;
+        top: 150px;
+        font-family: 'josefin sans',sans-serif;
+    
+    }
+    .createInput:focus{
+        outline:black;
+    }
+    .createText{
+        font-size: 12px;
+        margin-top: 20px;
+        height: 25vh;
+        outline: grey;
+        font-family: 'josefin sans',sans-serif;
+        margin-bottom: 20px;
+    }
+    .createSubmit{
+        position: absolute;
+        align-items: center;
+        margin-left: 150px;
+        margin-bottom: 50 px;
+        margin-top: 300px;
+    }
+}
