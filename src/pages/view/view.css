@@ -43,9 +43,12 @@
     -webkit-box-orient: vertical;
 }
 @media (max-width: 400px){
+    .post{
+        width: 320px;
+    }
     .videoBox{
         width: 100%;
-        height: 280px;
+        height: 180px;
         object-fit: cover;
         border-radius: 8px;
     }
@@ -56,9 +59,8 @@
         max-height: 100%;
         max-width: 100%;
         min-width: 100%;
-        margin-left:18px;
-        margin-top: 30px;
-        margin-bottom: 50px;
+        margin-left:-6px;
+        margin-top:auto;
       }
       .postTitle{
         font-family: 'josefin sans',sans-serif;
@@ -67,7 +69,7 @@
         margin-top: 20px;
         cursor: pointer;
         width: 280px;
-        margin-left: 35px;
+        margin-left: -20px;
     }
     .postContent{
         font-family: 'varela Round',sans-serif;
@@ -79,7 +81,7 @@
         display: -webkit-box;
         -webkit-line-clamp: 4;
         -webkit-box-orient: vertical;
-        margin-left: 18px;
+        margin-left: -5px;
         width: 100%;
     }
 }
